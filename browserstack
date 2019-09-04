@@ -1,0 +1,8 @@
+//REST API to upload your .apk or .ipa file using CI tools.
+//Note the app_url returned in the API response and update the "app" capability in your test code with it.
+
+$ curl -u "jasonlegako1:r9p5VRUTeopjJ7ihQZgF" -X POST "https://api-cloud.browserstack.com/app-automate/upload" -F "file=@C:/Users/jason/Desktop/React-App-Automation/PHappium/data/envs/app-uatNoPinning.apk" -F "data={\"custom_id\": \"PizzaHutApp\"}"
+
+
+//responses look like this
+{"app_url":"bs://7ce01df8014480d6f4a4a3b39b3d538be22462fb","custom_id":"PizzaHutApp","shareable_id":"jasonlegako1/PizzaHutApp"}

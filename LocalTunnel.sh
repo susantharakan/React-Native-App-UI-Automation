@@ -1,0 +1,1 @@
+./BrowserStackLocalunix --key r9p5VRUTeopjJ7ihQZgF --force-local & sleep 5 && npx codeceptjs run --grep @regression --reporter mochawesome
