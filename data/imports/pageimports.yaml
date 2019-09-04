@@ -7,7 +7,7 @@ deals: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/foo
 detailPage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/detailreview/detailPage.js')"
 extrasPage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/extras/extrasPage.js')"
 checkoutPage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/checkout/checkoutPage.js')"
-homePage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/home/homePage.js')"
+homePage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/home/homepage.js')"
 buildPage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/dealbuilder/BuildPage.js')"
 rewardsPage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/Account/Rewards.js')"
 profilePage: "require(commonActions.getRootDirectory('pageobjects') + 'pageobjects/Account/Profile.js')"
