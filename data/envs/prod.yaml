@@ -1,0 +1,15 @@
+imap:
+  host: imap.gmail.com
+  port: 993
+  secure: true
+sleepInterval: 2000
+smtp:
+  host: smtp.gmail.com
+  ssl: true
+stageURL:
+dbdetails:
+  dbusername:
+  dbpassword:
+  dbhostname:
+  dbname:
+  port:

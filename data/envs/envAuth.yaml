@@ -1,0 +1,24 @@
+#Main configuration
+email: "" 
+password: ""
+pointsemail: ""
+pointspassword: ""
+browserstackuser: ""
+browserstackkey: ""
+address: "7100 Corporate Dr"
+city: "Plano"
+state: "TX"
+zip: "Store-935"
+
+#Explicit localization testing
+explicitaddress: "8513 Chesham Dr"
+explicitcity: "Rowlett"
+explicitstate: "TX"
+explicitzip: "75088"
+explicit995: "Store-995"
+explicit996: "Store-996"
+explicit935: "Store-935"
+explicit127: "Store-000127"
+
+#zip for the%4 line up store
+luzip: "75068"

@@ -1,0 +1,51 @@
+NameOnCard: "Test Only Do Not Make"
+ZipCode: "75088"
+CVV: "123"
+CVV4: "1234"
+NPCOnlyCVV: "999"
+ExpDate: "1225"
+ExpDateMC3: "0121"
+NPCOnlyExpDate:
+AMEX: 375987654111116
+AMEX1: 371449635398431 #doesnt work on 995
+AMEX2: 378734493671000 #amex corporate
+Discover: 6011361000284489
+Discover1: 6011111111111117  #doesnt work on 995
+Discover2: 6011000990139424  #doesnt work on 995
+Mastercard: 5288430000000076
+Mastercard1: 5105105105105100  #doesnt work on 995
+Mastercard2: 5454545454545454
+Mastercard3: 5555555555554444 #doesnt work on 995
+NPCONLYMastercard: 5424180279791773 #12/2021 999
+Visa: 4761530001115556
+Diners: 36185900055556
+#VISA 4111111111111111 any cvv/exp/zip From carlos.ortega@yum.com (QO)
+#MasterCard   2223000048400011 exp 12/2025  cvv 999 any zip From carlos.ortega@yum.com (QO)
+
+
+#APPLE PAY ONLY Here are the sandbox cards that we used to successfully process payments in our Staging environment. Please let me know if you are unable to use these for Mobile App testing.
+#VISA
+VISAAPPLEPAYFPAN: 4761369980320253
+VISAAPPLEPAYExpiration Date: 112022
+VISAAPPLEPAYCVV: 002
+
+#MasterCard
+MCAPPLEPAYFPAN: 5204247750001471
+MCAPPLEPAYMCAPPLEPAYExpiration Date: 112022
+MCAPPLEPAYCVC: 111
+
+#Discover
+DiscoverAPPLEPAYFPAN: 6011000994462780
+DiscoverAPPLEPAYExpiration Date: 112022
+DiscoverAPPLEPAYCID: 111
+
+#AMEX
+AMEXAPPLEPAYFPAN: 349956286652212
+AMEXAPPLEPAYExpiration Date: 122022
+AMEXAPPLEPAYCID: 1111
+
+
+#GIFTCARDS
+#TEST_GIFT_CARD: GiftCard(number="614953129755", pin="0304",  balance="10.00") 
+# Backup GC 614953129754 | 0938 | $10 
+#OTHER_GIFT_CARD: GiftCard(number="606633827687", pin="7435")
