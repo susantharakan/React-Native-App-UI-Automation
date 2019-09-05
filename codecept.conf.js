@@ -9,7 +9,7 @@ exports.config = {
   "helpers": {
     //BrowserStack Config
     "Appium": {
-      app: "bs://38de6d54ee97826027ef58919528de68c34b9474", //stage 5.1.1 "bs://38de6d54ee97826027ef58919528de68c34b9474", //prod 5.1.1 "bs://c9c13bd3ba5795c906dd35629317c7389b44e253", 
+      app: "bs://12ccee69b519d994a123b5cbf436c5e4c555875a",
       platformName: "android",
       platform: "android",
       host: "hub-cloud.browserstack.com",

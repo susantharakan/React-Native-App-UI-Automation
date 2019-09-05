@@ -322,11 +322,12 @@ Rewards Points Transaction Breadsticks with pizza 2.37.39m
 
 # Roadmap
 - Dockerize repo.
-- User Table for parallel tests
+- QO admin or email verifications for price.
 - @Morning, @afternoon, @evening regressions on schedule.
 - Trigger for github, sending output folder to git repo. 
 - ECONNREFUSED issue with webdriver
 - Error: Session not started or terminated
+- User Table for parallel tests
 - clear cart id
 - Tipping
 - All wings types
